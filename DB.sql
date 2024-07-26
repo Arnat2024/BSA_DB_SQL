@@ -1,6 +1,6 @@
-CREATE DATABASE movie_db;
+/*CREATE DATABASE movie_db;
 
-USE movie_db;
+USE movie_db;*/
 
 CREATE TABLE User (
     id INT AUTO_INCREMENT PRIMARY KEY,
